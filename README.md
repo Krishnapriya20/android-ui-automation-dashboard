@@ -52,16 +52,6 @@ python main.py
 streamlit run dashboard.py
 ```
 
----
-
-## Dashboard Preview
-
-(Add your screenshot here)
-
-![Dashboard Screenshot](screenshot.png)
-
----
-
 ## Project Structure
 
 ```
