@@ -1,0 +1,26 @@
+device:
+  id: "10BE140A1U000R4"
+
+actions:
+  add_member: [920, 1254]
+
+  dob: [666, 1178]
+  dob_edit: [903, 743]
+  dob_ok: [890, 1143]
+
+  first_name: [746, 450]
+  last_name: [560, 810]
+
+  gender_male: [173, 996]
+  gender_female: [484, 1011]
+
+  age: [280, 1168]
+
+  relationship: [903, 283]
+  relationship_option: [514, 673]
+
+  pincode: [549, 1741]
+
+  submit: [592, 2307]
+
+  ok: [740, 1465]
